@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>AppsoGas_Volumetric</RootNamespace>
+	<AssemblyName>AppsoGasVolumetric</AssemblyName>
+	<ProductName>AppsoGas Volumétrico</ProductName>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
